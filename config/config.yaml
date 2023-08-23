@@ -1,0 +1,7 @@
+databaseConfig:
+  mysql:
+    username: root
+    password: martin
+    address: 127.0.0.1
+    port: "3306"
+    databaseName: go_cron
